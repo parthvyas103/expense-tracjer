@@ -51,7 +51,7 @@ class _RecipeItemScreenState extends State<RecipeItemScreen> {
         child: Column(
           children: <Widget>[
             Container(
-              height: 300,
+              height: 301,
               width: double.infinity,
               child: Image.network(
                 meal.imageUrl,
